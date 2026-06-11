@@ -21,7 +21,7 @@ CosmoDist is a Streamlit-based app that lets you interactively explore the relat
 - Python
 - Streamlit
 - Astropy
-- Matplotlib / NumPy
+- Matplotlib / NumPy.
 
 ---
 
